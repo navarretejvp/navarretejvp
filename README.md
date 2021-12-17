@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/navarretejvp/" target="_blank" rel="noreferrer"><img src="banner.png" alt="my banner"></a>
+</p>
 - 👋 Hola, soy @navarretejvp
 - 👀 Estoy interesado en programacion backend (Python)
 - 🌱 Estoy aprendiendo analisis de algoritmos
